@@ -8,4 +8,4 @@
 <br>The menu gives us the option to search for the desired book, add the data to the database and display the registered books and authors.
 It is also possible to choose to show living authors in a specific year or books in a specific language.
 
-<br>![image](https://github.com/nicolasoliveira13/LiterAlura/assets/77752117/00edbbca-c3a7-4836-9107-1b04f0536ace)
+<br>![image](https://github.com/nicolasoliveira13/LiterAlura/assets/77752117/e8156d03-d74e-438c-866c-c280ef09d73a)
